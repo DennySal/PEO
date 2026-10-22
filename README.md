@@ -1,9 +1,7 @@
 # PEO
-# Estensione della Prompt Engineering Ontology (PEO): Tecniche Agentiche e di Tool-Use
+# Estensione PEO Ontology per modellazione di ontologia per la rappresentazione di tecniche di prompt engineering
 
-Questo repository contiene il codice sorgente (TBox) e la documentazione relativi al lavoro di tesi volto all'estensione della **Prompt Engineering Ontology (PEO)**.
-
-L'obiettivo principale del progetto è modellare formalmente le architetture, le entità e i flussi logici che caratterizzano i Large Language Models (LLM) quando vengono impiegati come **Agenti Autonomi**, dotati di capacità di pianificazione (Planning) e di interazione con strumenti esterni (Tool-Use).
+Questo repository contiene il codice sorgente e la documentazione relativi al lavoro di tesi volto all'estensione della **Prompt Engineering Ontology (PEO)**.
 
 ## Tecniche Modellate
 L'estensione si concentra su tre paradigmi avanzati di Prompt Engineering:
