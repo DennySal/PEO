@@ -33,6 +33,5 @@ Seguendo la metodologia **LOT (Linked Open Terms)**, i requisiti dell'ontologia 
 ---
 
 ## Struttura del Repository
-- `peo_mia_estensione.rdf`: File sorgente (TBox) contenente l'implementazione delle classi, delle Object Properties e delle relative restrizioni (Domain/Range) sviluppate in Protégé.
-- `docs/`: Documentazione di progetto (schemi concettuali e ORSD).
+- `peo_ontology_extension.rdf`: File sorgente (TBox) contenente l'implementazione delle classi, delle Object Properties e delle relative restrizioni (Domain/Range) sviluppate in Protégé.
 - `evaluation/`: *(Work in Progress)* Directory destinata a ospitare le query SPARQL e i file per la validazione dell'ontologia tramite Reasoner una volta popolata con le istanze (ABox).
